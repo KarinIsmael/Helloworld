@@ -1,0 +1,1 @@
+testar om det går att först add + commit detta doc och sedan pull, skapa branch, push i gitbash för att sedan merga i github
